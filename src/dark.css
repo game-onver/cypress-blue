@@ -241,7 +241,7 @@
 }
 
 .fa-circle-notch:before, .reporter .runnable.test.runnable-pending .runnable-state:before {
-  content: "📛";
+  content: "⛔";
 }
 
 .reporter .runnable.test.runnable-active .runnable-state:before {
