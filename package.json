@@ -1,9 +1,7 @@
 {
-  "name": "cypress-dark",
-  "description": "Dark mode for Cypress test runner from user space",
+  "name": "cypress-bule",
+  "description": "",
   "version": "0.0.0-development",
-  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
-  "bugs": "https://github.com/bahmutov/cypress-dark/issues",
   "config": {
     "pre-git": {
       "commit-msg": "simple",
@@ -56,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bahmutov/cypress-dark.git"
+    "url": "https://github.com/game-onver/cypress-blue.git"
   },
   "scripts": {
     "ban": "ban",
